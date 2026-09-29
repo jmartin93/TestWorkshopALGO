@@ -7,6 +7,6 @@
         "ContinuousDeployment": true
     },
   "DeployToPROD": {
-    "continuousDeployment": false
+    "ContinuousDeployment": false
   }
 }
