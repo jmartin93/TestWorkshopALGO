@@ -3,7 +3,7 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "DeployToHozonoWSSandbox": {
-        "EnvironmentName": "MY-QA",
+        "EnvironmentName": "HozonoWSSandbox",
         "ContinuousDeployment": true
     }
 }
