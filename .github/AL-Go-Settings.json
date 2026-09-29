@@ -6,4 +6,7 @@
         "EnvironmentName": "HozonoWSSandbox",
         "ContinuousDeployment": true
     }
+  "DeployToPROD": {
+    "continuousDeployment": false
+  }
 }
