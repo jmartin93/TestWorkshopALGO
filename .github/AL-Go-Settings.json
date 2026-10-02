@@ -3,13 +3,14 @@
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
   "DeployToMY-QA": {
-        "EnvironmentName": "HozonoWSSandbox",
-        "ContinuousDeployment": true
-    },
+    "EnvironmentName": "HozonoWSSandbox",
+    "ContinuousDeployment": true
+  },
   "DeployToPROD": {
     "ContinuousDeployment": false
   },
-    "CurrentSchedule": "0 2 * * *",
+  "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
-  "NextMajorSchedule": "0 2 * * 0"
+  "NextMajorSchedule": "0 2 * * 0",
+  "templateSha": "b7dd1f32feb254e07086096e8970fba1187d9a6e"
 }
